@@ -1,4 +1,3 @@
 # Vue Calculator
 
-
-Project made with Vuejs for learning purpose.
+Project made using Vue Js with learning purpose.
